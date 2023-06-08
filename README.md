@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate Web3 developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya000099" alt="aditya000099" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/adityx3" target="blank"><img src="https://img.shields.io/twitter/follow/adityx3?logo=twitter&style=for-the-badge" alt="adityx3" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
